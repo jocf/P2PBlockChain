@@ -10,15 +10,15 @@ The client functions properly with this version of the BlockchainServer but MAY 
 This was NOT INTENDED to be used with the P2P model.
 
 The client accepts the following arguments:
-ls "list servers" : "ls"
-ad "add a server" : "ad|<host name>|<port number>"
-rm "remove a server" : "rm|<server index>"
-up "update a server" : "up|<server index>|<host name>|<port number>"
-tx "send a transaction" : "tx|<sender>|<content>"
-pb "print all blockchains" : "pb"
-pb "print a blockchain" : "pb|<server index>"
-pb "print some blockchains" : "pb|<server index>|<server index>|<server index>..."
-sd "shut down" : "sd"
+ ls "list servers" : "ls"
+ ad "add a server" : "ad|<host name>|<port number>"
+ rm "remove a server" : "rm|<server index>"
+ up "update a server" : "up|<server index>|<host name>|<port number>"
+ tx "send a transaction" : "tx|<sender>|<content>"
+ pb "print all blockchains" : "pb"
+ pb "print a blockchain" : "pb|<server index>"
+ pb "print some blockchains" : "pb|<server index>|<server index>|<server index>..."
+ sd "shut down" : "sd"
 
 If you are unsure, please use the updated version as outlined in the main README file in the parent directory.
 
