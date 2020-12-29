@@ -1,5 +1,9 @@
 import java.io.Serializable;
 
+/*
+ THIS WAS A PROVIDED CODE STUB FOR THE ASSIGNMENT FROM COMP3221
+*/
+
 public class Transaction implements Serializable{
 
     private String sender;

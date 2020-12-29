@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Base64;
 
+/*
+ THIS WAS A PROVIDED CODE STUB FOR THE ASSIGNMENT FROM COMP3221
+*/
+
 public class Blockchain {
 
     private Block head;

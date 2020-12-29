@@ -1,3 +1,8 @@
+
+/*
+ THIS WAS A PROVIDED CODE STUB FOR THE ASSIGNMENT FROM COMP3221
+*/
+
 public class ServerInfo {
 
     private String host;
