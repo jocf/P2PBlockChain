@@ -24,11 +24,11 @@ To run the code, you will need to execute the BlockchainServer.class file after 
 The way in which this functions is as follows:
  - To begin, start at least two servers.
  - The first argument should be the port of the server itself, so, lets say we ran two servers, one on localhost:8333 and one on localhost:8334
- For the first server:
+ * For the first server:
  - Argument 1 will be 8333
  - Argument 2 will be localhost
  - Argument 3 will be 8334
- For the second server:
+ * For the second server:
  - Argument 1 will be 8334
  - Argument 2 will be localhost
  - Argument 3 will be 8333
