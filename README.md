@@ -43,10 +43,10 @@ To connect with telnet use "telnet HOSTNAME PORT"
 i.e. telnet localhost 8333
 
 From here, the following commands are available to you:
-pb - print the blockchain as it stands currently
-cc - close the connection to the host
-tx|<sender>|<content> - sends a transaction to the server. This will then propogate into the blockchain. E.g. tx|test0001|This is my message) 
-Note: The sender should be of the format ([4 alphabetic][4 numeric]). The message can be any format.
+- pb - print the blockchain as it stands currently
+- cc - close the connection to the host
+- tx|<sender>|<content> - sends a transaction to the server. This will then propogate into the blockchain. E.g. tx|test0001|This is my message) 
+- Note: The sender should be of the format ([4 alphabetic][4 numeric]). The message can be any format.
 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
